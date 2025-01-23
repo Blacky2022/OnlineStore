@@ -45,14 +45,3 @@ The Multilayered Online Store Application is a .NET console application designed
      ```sh
      dotnet run
      ```
-
-## Documentation
-- **Introduction**
-- **General Description**
-- **Database Structure Implementation**
-- **Guest Functionality**
-- **Registered User Functionality**
-- **Administrator Functionality**
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests.
